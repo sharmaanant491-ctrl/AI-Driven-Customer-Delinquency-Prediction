@@ -1,0 +1,5 @@
+Age Group,Customer Count,Predicted High Risk (%),Recall (%),False Positive Rate (%)
+18-29,24,62.5,60.0,63.16
+30-44,26,42.31,25.0,45.45
+45-59,20,50.0,0.0,50.0
+60-74,30,53.33,42.86,56.52
